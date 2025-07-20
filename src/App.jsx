@@ -1,8 +1,11 @@
+import Layout from "./layouts/Layout.jsx";
+
 function App() {
   return (
-    <>
-      <h1>Book App Starting files</h1>
-    </>
+
+      <Layout>
+          <h1>Book App Starting files</h1>
+      </Layout>
   );
 }
 
